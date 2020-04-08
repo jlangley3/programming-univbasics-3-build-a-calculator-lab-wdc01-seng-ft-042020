@@ -11,7 +11,7 @@ answer
 end
 
 def division(num1, num2)
-answer = (num1 - num2)
+answer = (num1 / num2)
 puts answer
 answer
 end
@@ -29,7 +29,7 @@ answer
 end
 
 def square_root(num)
-answer = (num2 + num1)
+answer = (num1 - num2)
 puts answer
 answer
 end

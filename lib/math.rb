@@ -3,8 +3,6 @@ answer == (num2 + num1)
 answer
 end
 
-addition( 1, 2 )
-
 def subtraction(num1, num2)
 
 end

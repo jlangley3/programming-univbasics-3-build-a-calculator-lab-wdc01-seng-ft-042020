@@ -17,7 +17,7 @@ answer
 end
 
 def multiplication(num1, num2)
-answer = (num2 + num1)
+answer = (num1 - num2)
 puts answer
 answer
 end

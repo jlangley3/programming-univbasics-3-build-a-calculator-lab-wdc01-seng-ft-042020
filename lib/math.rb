@@ -29,7 +29,7 @@ answer
 end
 
 def square_root(num)
-answer = math.sqrt(num)
+answer = Math.sqrt(num)
 puts answer
 answer
 end

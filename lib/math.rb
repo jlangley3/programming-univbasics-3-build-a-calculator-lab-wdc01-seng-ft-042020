@@ -1,6 +1,8 @@
 def addition(num1, num2)
-
+answer == (num2 + num1)
 end
+
+addition( 1, 2 )
 
 def subtraction(num1, num2)
 

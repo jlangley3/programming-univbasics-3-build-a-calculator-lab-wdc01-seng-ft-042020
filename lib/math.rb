@@ -1,11 +1,11 @@
 def addition(num1, num2)
-answer = (num2 + num1)
+answer = (num1 + num2)
 puts answer
 answer
 end
 
 def subtraction(num1, num2)
-answer = (num2 + num1)
+answer = (num1 - num2)
 puts answer
 answer
 end
@@ -29,5 +29,7 @@ answer
 end
 
 def square_root(num)
-
+answer = (num2 + num1)
+puts answer
+answer
 end
